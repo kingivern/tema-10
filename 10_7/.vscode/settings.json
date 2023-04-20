@@ -1,0 +1,28 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "acordarme",
+        "archivo",
+        "bufer",
+        "cambio",
+        "caracter",
+        "cuyo",
+        "escriba",
+        "escribimos",
+        "hacemos",
+        "linea",
+        "lugar",
+        "mancha",
+        "nombre",
+        "quiero",
+        "quijote",
+        "segunda",
+        "sentencia",
+        "unica",
+        "vacie"
+    ]
+}
